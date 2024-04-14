@@ -22,7 +22,7 @@ This project is in an early stage, all the files here have been contributed by o
 - [Dualboot setup](guide/dualboot.md)
 
 ## Miscelaneous
-- [Updating drivers](guide/update.md)
+- [Fast install restore partition with Rdrive](guide/update.md)
 
 - ~~[Uninstall instructions](guide/uninstall.md)~~
 
