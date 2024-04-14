@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/n00b69/SAMSUNG-WINNER-WindowsARM/blob/main/winner.png" width="350" alt="Windows 11 running on winner">
+<img align="right" src="https://github.com/Ost268/SAMSUNG-WINNER-WindowsARM/blob/main/winner.png" width="350" alt="Windows 11 running on winner">
 
 # Running Windows on the SAMSUNG GALAXY FOLD SM-F900F
 
@@ -11,7 +11,7 @@
 
 - [WOA Helper app](https://github.com/n00b69/woa-beryllium/releases/download/Dualboot/woahelper.apk)
 
-- [Switch To Android package]() FILE NEEDED
+- [Switch To Android package](https://mega.nz/file/n11EVLhI#7wCPb6_q-4JiPNXLDdV7Xc0IMd66WmXSr57buH_2Irk) 
 
 
 ## Dualboot guide
