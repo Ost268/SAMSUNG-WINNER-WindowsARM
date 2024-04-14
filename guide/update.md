@@ -55,7 +55,7 @@ Click Restore disk or partitions and click next
 ```
 
 ### Boot back into Windows
-> Reboot your device to boot back into Windows. If this boots you to Android, reflash the UEFI image through fastboot or by using the WOA Helper app
+> Reboot your device to boot back into Windows. If this boots you to Android, reflash the [UEFI image](https://github.com/woa-msmnile/msmnilePkg/releases/download/2402.86/samsung-winner_NOSB.img)  through fastboot or by using the WOA Helper app
 
   
   
