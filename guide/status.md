@@ -16,7 +16,7 @@ Alpha, Windows 11 boot but without USB, the next thing is to try to make the USB
 - [x] Charging slow need driver
 - [x] Display
 - [ ] External display 
-- [x] GPU black screen
+- [x] GPU black screen with WDM25
 - [ ] LTE 
 - [ ] Touchscreen 
 - [x] UFS
