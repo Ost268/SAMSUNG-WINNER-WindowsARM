@@ -68,7 +68,7 @@ format quick fs=fat32 label="ESPWINNER"
 
 #### Add letter to ESP
 ```cmd
-assign letter y
+assign letter s
 ```
 
 ### Selecting the WinPE partition
@@ -86,7 +86,7 @@ format quick fs=ntfs label="WINPE"
 
 #### Add letter to WinPE
 ```cmd
-assign letter r
+assign letter w
 ```
 
 ### Selecting the Windows partition
@@ -102,7 +102,7 @@ format quick fs=ntfs label="WINWINNER"
 
 #### Add letter to Windows
 ```cmd
-assign letter x
+assign letter r
 ```
 
 #### Exit diskpart
@@ -127,32 +127,32 @@ driverupdater.exe -d <winnerdriversfolder>\definitions\Desktop\ARM64\Internal\wi
 
 #### Create Windows bootloader files
 ```cmd
-bcdboot X:\Windows /s Y: /f UEFI
+bcdboot R:\Windows /s S: /f UEFI
 ```
 
 #### Enabling test signing
 ```cmd
-bcdedit /store Y:\EFI\Microsoft\BOOT\BCD /set "{default}" testsigning on
+bcdedit /store S:\EFI\Microsoft\BOOT\BCD /set "{default}" testsigning on
 ```
 
 #### Disabling recovery
 ```cmd
-bcdedit /store Y:\EFI\Microsoft\BOOT\BCD /set "{default}" recoveryenabled no
+bcdedit /store S:\EFI\Microsoft\BOOT\BCD /set "{default}" recoveryenabled no
 ```
 
 #### Disabling integrity checks
 ```cmd
-bcdedit /store Y:\EFI\Microsoft\BOOT\BCD /set "{default}" nointegritychecks on
+bcdedit /store S:\EFI\Microsoft\BOOT\BCD /set "{default}" nointegritychecks on
 ```
 
 #### Enabling boot menu
 ```cmd
-bcdedit /store Y:\EFI\Microsoft\BOOT\BCD /set "{default}" displaybootmenu yes
+bcdedit /store S:\EFI\Microsoft\BOOT\BCD /set "{default}" displaybootmenu yes
 ```
 
 #### Disabling boot status policy
 ```cmd
-bcdedit /store Y:\EFI\Microsoft\BOOT\BCD /set "{default}" bootstatuspolicy IgnoreAllFailures
+bcdedit /store S:\EFI\Microsoft\BOOT\BCD /set "{default}" bootstatuspolicy IgnoreAllFailures
 ```
 
 ### Reboot to Android
