@@ -50,7 +50,7 @@ open image  E_HDD5-image.rdr
 Click Restore disk or partitions and click next
 #### Wait for some time and exit
 
-> Flash Latest UEFI image and reboot 
+> Flash Latest [UEFI image](https://github.com/Ost268/SAMSUNG-WINNER-WindowsARM/blob/main/guide/dualboot.md) and reboot 
 ```Drivers install manualy .\DriverUpdater.exe -d .\definitions\Desktop\ARM64\Internal\winner.txt -r . -p R:\
 ```
 
