@@ -47,6 +47,31 @@ Click Restore from an Image
 open image  E_HDD5-image.rdr
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###Select your drive RDrive
 <img align="right" src="https://github.com/Ost268/SAMSUNG-WINNER-WindowsARM/blob/main/guide/guide/RDrive/Screen2.png" width="350" alt="RDrive">
 Click Restore disk or partitions and click next
