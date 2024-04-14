@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/n00b69/SAMSUNG-WINNER-WindowsARM/blob/main/winner.png" width="350" alt="Windows 11 running on winner">
+<img align="right" src="https://github.com/Ost268/SAMSUNG-WINNER-WindowsARM/blob/main/winner.png" width="350" alt="Windows 11 running on winner">
 
 # Running Windows on the SAMSUNG GALAXY FOLD SM-F900F
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/woa_msmnile_issues)
