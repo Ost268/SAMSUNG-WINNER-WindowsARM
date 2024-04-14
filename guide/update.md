@@ -38,7 +38,7 @@ select volume $
 
 #### Assign letter to WINWINNER
 ```cmd
-assign letter x
+assign letter r
 ```
 
 #### Exit diskpart
