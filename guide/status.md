@@ -13,10 +13,10 @@ Alpha, Windows 11 boot but without USB, the next thing is to try to make the USB
 - [ ] Bluetooth
 - [ ] Brightness
 - [ ] Camera
-- [ ] Charging 
+- [x] Charging slow need driver
 - [x] Display
-- [x] External display 
-- [x] GPU
+- [ ] External display 
+- [x] GPU black screen
 - [ ] LTE 
 - [ ] Touchscreen 
 - [x] UFS
