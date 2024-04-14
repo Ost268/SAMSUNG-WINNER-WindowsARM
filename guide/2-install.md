@@ -7,7 +7,7 @@
 ### Prerequisites
 - [Windows on ARM image](https://worproject.com/esd)
   
-- [Drivers]() FILE NEEDED
+- [Drivers](https://mega.nz/file/j9lREBJA#AwA4xIovsHdK4Bpb4-9bDEbxJdCDDr_LYulJ8w3qvcc)
 
 - [Modded TWRP](https://mega.nz/file/LoVGETDK#-lwSOZeVRTuyOYOOv84RqhZJs8Ns-ESpoM6cT6-X-Kg) (should already be installed)
 
